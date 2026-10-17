@@ -1,0 +1,5 @@
+# Reference SHA-256 fingerprint for the reproducibility test.
+#
+# Produced by:  mdsim -N 108 -steps 1000 -dt 1.0 -seed 42 -density 0.02 -cutoff 8.0
+# (argon, NVE, single-threaded; identical for any thread count / platform).
+b5cd8805aabf433582077510164664773eaea822ff00fa1b8ebe309cdc426766
